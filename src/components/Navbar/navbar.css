@@ -1,0 +1,24 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #d8d8e1;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+.options_container{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.options_container h3{
+    display: flex;
+    margin: 1rem;
+}
+
+h2,
+h3:hover{
+    cursor: pointer;
+    color: rgb(2, 56, 104);
+}
